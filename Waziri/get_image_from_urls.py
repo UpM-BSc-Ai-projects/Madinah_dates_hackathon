@@ -65,5 +65,6 @@ save_directory = "./downloaded_images"
 # Step 1: Get all image URLs from the webpage
 image_urls = get_image_urls_from_webpage(webpage_url)
 
+
 # Step 2: Download the images
 download_images(image_urls, save_directory)
