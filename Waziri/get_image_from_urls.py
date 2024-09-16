@@ -58,6 +58,7 @@ def download_images(image_urls, save_directory):
             print(f"An error occurred while downloading {image_url}: {str(e)}")
 
 
+
 # Example Usage
 webpage_url = "https://www.bing.com/images/search?q=rhynchophorus+ferrugineus+&FORM=HDRSC3"  # Replace with the actual URL
 save_directory = "./downloaded_images"

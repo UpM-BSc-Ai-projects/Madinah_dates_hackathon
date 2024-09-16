@@ -37,6 +37,8 @@ def download_images_from_search(query, num_images, save_directory):
 
 
 
+
+
 # Example Usage
 download_images_from_search("Date Tree", 20, "./dataset/date_tree")
 download_images_from_search("Red Palm Weevil", 20, "./dataset/red_palm_weevil")
