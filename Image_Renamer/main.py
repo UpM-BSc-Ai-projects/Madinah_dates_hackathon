@@ -6,11 +6,11 @@ dataset_dir = ''  # Modify this to your dataset directory path
 categories = ['ambar']  # List of your date types (folders)
 
 # Define the target size for resizing (224x224)
-target_size = (224, 224)
+# target_size = (224, 224)
 
 
 # Function to rename and resize images
-def rename_and_resize_images():
+def rename_images():
     for category in categories:
         category_path = os.path.join(dataset_dir, category)
 
@@ -30,7 +30,7 @@ def rename_and_resize_images():
                 # Open the image file
                 with Image.open(image_path) as img:
                     # Resize the image
-                    img_resized = img.resize(target_size)
+                    # img_resized = img.resize(target_size)
 
                     # Create new image name
                     new_image_name = f"{category}_{idx + 1}.jpg"
@@ -50,4 +50,4 @@ def rename_and_resize_images():
 
 
 # Run the function
-rename_and_resize_images()
+rename_images()
