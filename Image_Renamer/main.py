@@ -37,7 +37,7 @@ def rename_images():
                     new_image_path = os.path.join(category_path, new_image_name)
 
                     # Save the resized image with the new name
-                    img_resized.save(new_image_path)
+                    #img_resized.save(new_image_path)
 
                     # Optionally, delete the old image
                     if new_image_path != image_path:
