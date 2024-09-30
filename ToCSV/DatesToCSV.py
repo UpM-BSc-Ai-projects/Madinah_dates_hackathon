@@ -8,16 +8,16 @@ csv_file = 'date.csv'
 columns = ['Date ID', 'Date Type', 'Quality', 'Colour', 'Size', 'Price (per kg)']
 
 # CHANGE THESE VALUES AS NEEDED, Then manually check each row for accuracy
-default_date_type = 'Safawi'
+default_date_type = 'Helwa'
 default_quality = 'Medium'
-default_colour = 'Golden'
+default_colour = 'Red'
 default_size = 'Medium'
-default_price_per_kg = '9SR - 15SR'
+default_price_per_kg = '10SR - 25SR'
 
 
 # CHANGE THIS FUNCTION AS NEEDED, This is just a simple example
 def generate_date_id(counter):
-    return f"WD10{counter:02d}"
+    return f"HD50{counter:02d}"
 
 
 def add_images_to_csv():
