@@ -1,321 +1,121 @@
-Image Name,Date ID,Date Type,Quality,Colour,Size,Price (in Kg)
-KD3001_1.jpg,KD3001,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3001_2.jpg,KD3001,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3001_3.jpg,KD3001,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3001_4.jpg,KD3001,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3001_5.jpg,KD3001,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3001_6.jpg,KD3001,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3001_7.jpg,KD3001,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3001_8.jpg,KD3001,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3002_1.jpg,KD3002,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3002_2.jpg,KD3002,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3002_3.jpg,KD3002,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3002_4.jpg,KD3002,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3002_5.jpg,KD3002,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3002_6.jpg,KD3002,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3002_7.jpg,KD3002,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3002_8.jpg,KD3002,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3003_1.jpg,KD3003,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3003_2.jpg,KD3003,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3003_3.jpg,KD3003,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3003_4.jpg,KD3003,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3003_5.jpg,KD3003,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3003_6.jpg,KD3003,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3003_7.jpg,KD3003,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3003_8.jpg,KD3003,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3004_1.jpg,KD3004,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3004_2.jpg,KD3004,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3004_3.jpg,KD3004,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3004_4.jpg,KD3004,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3004_5.jpg,KD3004,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3004_6.jpg,KD3004,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3004_7.jpg,KD3004,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3004_8.jpg,KD3004,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3005_1.jpg,KD3005,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3005_2.jpg,KD3005,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3005_3.jpg,KD3005,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3005_4.jpg,KD3005,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3005_5.jpg,KD3005,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3005_6.jpg,KD3005,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3005_7.jpg,KD3005,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3005_8.jpg,KD3005,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3006_1.jpg,KD3006,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3006_2.jpg,KD3006,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3006_3.jpg,KD3006,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3006_4.jpg,KD3006,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3006_5.jpg,KD3006,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3006_6.jpg,KD3006,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3006_7.jpg,KD3006,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3006_8.jpg,KD3006,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3007_1.jpg,KD3007,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3007_2.jpg,KD3007,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3007_3.jpg,KD3007,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3007_4.jpg,KD3007,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3007_5.jpg,KD3007,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3007_6.jpg,KD3007,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3007_7.jpg,KD3007,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3007_8.jpg,KD3007,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3008_1.jpg,KD3008,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3008_2.jpg,KD3008,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3008_3.jpg,KD3008,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3008_4.jpg,KD3008,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3008_5.jpg,KD3008,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3008_6.jpg,KD3008,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3008_7.jpg,KD3008,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3008_8.jpg,KD3008,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3009_1.jpg,KD3009,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3009_2.jpg,KD3009,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3009_3.jpg,KD3009,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3009_4.jpg,KD3009,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3009_5.jpg,KD3009,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3009_6.jpg,KD3009,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3009_7.jpg,KD3009,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3009_8.jpg,KD3009,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3010_1.jpg,KD3010,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3010_2.jpg,KD3010,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3010_3.jpg,KD3010,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3010_4.jpg,KD3010,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3010_5.jpg,KD3010,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3010_6.jpg,KD3010,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3010_7.jpg,KD3010,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3010_8.jpg,KD3010,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3011_1.jpg,KD3011,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3011_2.jpg,KD3011,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3011_3.jpg,KD3011,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3011_4.jpg,KD3011,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3011_5.jpg,KD3011,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3011_6.jpg,KD3011,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3011_7.jpg,KD3011,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3011_8.jpg,KD3011,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3012_1.jpg,KD3012,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3012_2.jpg,KD3012,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3012_3.jpg,KD3012,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3012_4.jpg,KD3012,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3012_5.jpg,KD3012,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3012_6.jpg,KD3012,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3012_7.jpg,KD3012,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3012_8.jpg,KD3012,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3013_1.jpg,KD3013,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3013_2.jpg,KD3013,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3013_3.jpg,KD3013,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3013_4.jpg,KD3013,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3013_5.jpg,KD3013,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3013_6.jpg,KD3013,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3013_7.jpg,KD3013,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3013_8.jpg,KD3013,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3014_1.jpg,KD3014,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3014_2.jpg,KD3014,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3014_3.jpg,KD3014,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3014_4.jpg,KD3014,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3014_5.jpg,KD3014,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3014_6.jpg,KD3014,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3014_7.jpg,KD3014,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3014_8.jpg,KD3014,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3015_1.jpg,KD3015,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3015_2.jpg,KD3015,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3015_3.jpg,KD3015,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3015_4.jpg,KD3015,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3015_5.jpg,KD3015,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3015_6.jpg,KD3015,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3015_7.jpg,KD3015,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3015_8.jpg,KD3015,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3016_1.jpg,KD3016,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3016_2.jpg,KD3016,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3016_3.jpg,KD3016,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3016_4.jpg,KD3016,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3016_5.jpg,KD3016,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3016_6.jpg,KD3016,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3016_7.jpg,KD3016,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3016_8.jpg,KD3016,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3017_1.jpg,KD3017,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3017_2.jpg,KD3017,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3017_3.jpg,KD3017,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3017_4.jpg,KD3017,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3017_5.jpg,KD3017,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3017_6.jpg,KD3017,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3017_7.jpg,KD3017,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3017_8.jpg,KD3017,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3018_1.jpg,KD3018,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3018_2.jpg,KD3018,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3018_3.jpg,KD3018,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3018_4.jpg,KD3018,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3018_5.jpg,KD3018,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3018_6.jpg,KD3018,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3018_7.jpg,KD3018,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3018_8.jpg,KD3018,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3019_1.jpg,KD3019,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3019_2.jpg,KD3019,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3019_3.jpg,KD3019,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3019_4.jpg,KD3019,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3019_5.jpg,KD3019,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3019_6.jpg,KD3019,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3019_7.jpg,KD3019,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3019_8.jpg,KD3019,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3020_1.jpg,KD3020,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3020_2.jpg,KD3020,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3020_3.jpg,KD3020,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3020_4.jpg,KD3020,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3020_5.jpg,KD3020,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3020_6.jpg,KD3020,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3020_7.jpg,KD3020,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3020_8.jpg,KD3020,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3021_1.jpg,KD3021,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3021_2.jpg,KD3021,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3021_3.jpg,KD3021,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3021_4.jpg,KD3021,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3021_5.jpg,KD3021,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3021_6.jpg,KD3021,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3021_7.jpg,KD3021,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3021_8.jpg,KD3021,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3022_1.jpg,KD3022,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3022_2.jpg,KD3022,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3022_3.jpg,KD3022,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3022_4.jpg,KD3022,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3022_5.jpg,KD3022,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3022_6.jpg,KD3022,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3022_7.jpg,KD3022,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3022_8.jpg,KD3022,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3023_1.jpg,KD3023,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3023_2.jpg,KD3023,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3023_3.jpg,KD3023,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3023_4.jpg,KD3023,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3023_5.jpg,KD3023,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3023_6.jpg,KD3023,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3023_7.jpg,KD3023,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3023_8.jpg,KD3023,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3024_1.jpg,KD3024,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3024_2.jpg,KD3024,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3024_3.jpg,KD3024,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3024_4.jpg,KD3024,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3024_5.jpg,KD3024,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3024_6.jpg,KD3024,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3024_7.jpg,KD3024,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3024_8.jpg,KD3024,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3025_1.jpg,KD3025,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3025_2.jpg,KD3025,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3025_3.jpg,KD3025,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3025_4.jpg,KD3025,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3025_5.jpg,KD3025,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3025_6.jpg,KD3025,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3025_7.jpg,KD3025,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3025_8.jpg,KD3025,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3026_1.jpg,KD3026,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3026_2.jpg,KD3026,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3026_3.jpg,KD3026,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3026_4.jpg,KD3026,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3026_5.jpg,KD3026,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3026_6.jpg,KD3026,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3026_7.jpg,KD3026,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3026_8.jpg,KD3026,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3027_1.jpg,KD3027,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3027_2.jpg,KD3027,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3027_3.jpg,KD3027,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3027_4.jpg,KD3027,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3027_5.jpg,KD3027,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3027_6.jpg,KD3027,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3027_7.jpg,KD3027,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3027_8.jpg,KD3027,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3028_1.jpg,KD3028,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3028_2.jpg,KD3028,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3028_3.jpg,KD3028,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3028_4.jpg,KD3028,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3028_5.jpg,KD3028,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3028_6.jpg,KD3028,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3028_7.jpg,KD3028,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3028_8.jpg,KD3028,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3029_1.jpg,KD3029,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3029_2.jpg,KD3029,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3029_3.jpg,KD3029,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3029_4.jpg,KD3029,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3029_5.jpg,KD3029,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3029_6.jpg,KD3029,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3029_7.jpg,KD3029,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3029_8.jpg,KD3029,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3030_1.jpg,KD3030,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3030_2.jpg,KD3030,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3030_3.jpg,KD3030,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3030_4.jpg,KD3030,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3030_5.jpg,KD3030,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3030_6.jpg,KD3030,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3030_7.jpg,KD3030,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3030_8.jpg,KD3030,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3031_1.jpg,KD3031,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3031_2.jpg,KD3031,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3031_3.jpg,KD3031,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3031_4.jpg,KD3031,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3031_5.jpg,KD3031,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3031_6.jpg,KD3031,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3031_7.jpg,KD3031,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3031_8.jpg,KD3031,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3032_1.jpg,KD3032,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3032_2.jpg,KD3032,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3032_3.jpg,KD3032,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3032_4.jpg,KD3032,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3032_5.jpg,KD3032,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3032_6.jpg,KD3032,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3032_7.jpg,KD3032,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3032_8.jpg,KD3032,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3033_1.jpg,KD3033,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3033_2.jpg,KD3033,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3033_3.jpg,KD3033,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3033_4.jpg,KD3033,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3033_5.jpg,KD3033,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3033_6.jpg,KD3033,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3033_7.jpg,KD3033,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3033_8.jpg,KD3033,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3034_1.jpg,KD3034,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3034_2.jpg,KD3034,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3034_3.jpg,KD3034,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3034_4.jpg,KD3034,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3034_5.jpg,KD3034,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3034_6.jpg,KD3034,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3034_7.jpg,KD3034,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3034_8.jpg,KD3034,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3035_1.jpg,KD3035,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3035_2.jpg,KD3035,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3035_3.jpg,KD3035,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3035_4.jpg,KD3035,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3035_5.jpg,KD3035,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3035_6.jpg,KD3035,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3035_7.jpg,KD3035,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3035_8.jpg,KD3035,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3036_1.jpg,KD3036,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3036_2.jpg,KD3036,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3036_3.jpg,KD3036,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3036_4.jpg,KD3036,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3036_5.jpg,KD3036,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3036_6.jpg,KD3036,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3036_7.jpg,KD3036,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3036_8.jpg,KD3036,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3037_1.jpg,KD3037,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3037_2.jpg,KD3037,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3037_3.jpg,KD3037,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3037_4.jpg,KD3037,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3037_5.jpg,KD3037,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3037_6.jpg,KD3037,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3037_7.jpg,KD3037,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3037_8.jpg,KD3037,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3038_1.jpg,KD3038,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3038_2.jpg,KD3038,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3038_3.jpg,KD3038,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3038_4.jpg,KD3038,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3038_5.jpg,KD3038,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3038_6.jpg,KD3038,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3038_7.jpg,KD3038,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3038_8.jpg,KD3038,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3039_1.jpg,KD3039,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3039_2.jpg,KD3039,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3039_3.jpg,KD3039,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3039_4.jpg,KD3039,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3039_5.jpg,KD3039,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3039_6.jpg,KD3039,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3039_7.jpg,KD3039,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3039_8.jpg,KD3039,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3040_1.jpg,KD3040,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3040_2.jpg,KD3040,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3040_3.jpg,KD3040,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3040_4.jpg,KD3040,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3040_5.jpg,KD3040,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3040_6.jpg,KD3040,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3040_7.jpg,KD3040,Sukkari,High,Golden Brown,Medium,15SR - 50SR
-KD3040_8.jpg,KD3040,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+Date ID,Date Type,Quality,Colour,Size,Price (per kg)
+KD3001,Sukkari,Medium,Golden Brown,Medium,15SR - 50SR
+KD3002,Sukkari,High,Dark Brown,Medium,15SR - 50SR
+KD3003,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3004,Sukkari,Low,Dark Brown,Small,15SR - 50SR
+KD3005,Sukkari,Low,Dark Brown,Large,15SR - 50SR
+KD3006,Sukkari,Medium,Golden Brown,Medium,15SR - 50SR
+KD3007,Sukkari,Medium,Golden Brown,Medium,15SR - 50SR
+KD3008,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3009,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3010,Sukkari,Medium,Dark Brown,Large,15SR - 50SR
+KD3011,Sukkari,Medium,Dark Brown,Small,15SR - 50SR
+KD3012,Sukkari,Medium,Dark Brown,Medium,15SR - 50SR
+KD3013,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3014,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3015,Sukkari,Medium,Dark Brown,Large,15SR - 50SR
+KD3016,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3017,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3018,Sukkari,Medium,Dark Brown,Large,15SR - 50SR
+KD3019,Sukkari,Medium,Golden Brown,Medium,15SR - 50SR
+KD3020,Sukkari,Low,Golden Brown,Large,15SR - 50SR
+KD3021,Sukkari,Low,Dark Brown,Large,15SR - 50SR
+KD3022,Sukkari,Medium,Golden Brown,Small,15SR - 50SR
+KD3023,Sukkari,High,Golden Brown,Large,15SR - 50SR
+KD3024,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3025,Sukkari,Medium,Golden Brown,Large,15SR - 50SR
+KD3026,Sukkari,Low,Golden Brown,Large,15SR - 50SR
+KD3027,Sukkari,Low,Dark Brown,Large,15SR - 50SR
+KD3028,Sukkari,Medium,Dark Brown,Medium,15SR - 50SR
+KD3029,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3030,Sukkari,Medium,Dark Brown,Large,15SR - 50SR
+KD3031,Sukkari,Low,Golden Brown,Large,15SR - 50SR
+KD3032,Sukkari,Medium,Dark Brown,Medium,15SR - 50SR
+KD3033,Sukkari,Medium,Dark Brown,Small,15SR - 50SR
+KD3034,Sukkari,Medium,Dark Brown,Large,15SR - 50SR
+KD3035,Sukkari,Medium,Golden Brown,Small,15SR - 50SR
+KD3036,Sukkari,Low,Golden Brown,Large,15SR - 50SR
+KD3037,Sukkari,Medium,Dark Brown,Large,15SR - 50SR
+KD3038,Sukkari,Low,Golden Brown,Medium,15SR - 50SR
+KD3039,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+KD3040,Sukkari,High,Golden Brown,Medium,15SR - 50SR
+JD2101,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2102,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2103,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2104,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2105,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2106,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2107,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2108,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2109,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2110,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2111,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2112,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2113,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2114,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2115,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2116,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2117,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2118,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2119,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2120,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2121,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2122,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2123,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2124,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2125,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2126,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2127,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2128,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2129,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2130,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2131,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2132,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2133,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2134,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2135,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2136,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2137,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2138,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2139,Ajwa,Medium,Black,Medium,15SR - 150SR
+JD2140,Ajwa,Medium,Black,Medium,15SR - 150SR
+BD4001,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4002,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4003,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4004,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4005,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4006,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4007,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4008,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4009,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4010,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4011,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4012,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4013,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4014,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4015,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4016,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4017,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4018,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4019,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4020,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4021,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4022,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4023,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4024,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4025,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4026,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4027,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4028,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4029,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4030,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4031,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4032,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4033,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4034,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4035,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4036,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4037,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4038,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4039,Barhi,Medium,Golden,Medium,9SR - 15SR
+BD4040,Barhi,Medium,Golden,Medium,9SR - 15SR

@@ -24,17 +24,6 @@ def rename_images_in_directory(directory):
         os.rename(old_file_path, new_file_path)
         print(f"Renamed '{file_name}' to '{new_name}'")
 
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\AT3001")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\JT3001")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\KT3001")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\QT3001")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\HT3001")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\HT3002")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\HT3003")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\HT3004")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\WT3001")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\WT3002")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\WT3003")
-rename_images_in_directory(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Trees\Be2r Ali Farm\WT3004")
+
 
 

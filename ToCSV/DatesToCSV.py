@@ -4,57 +4,50 @@ import pandas as pd
 # Define the CSV file name
 csv_file = 'date.csv'
 
-# Define a dictionary to map the first letter of the image name to the date type
-date_type_map = {
-    'K': 'Sukkari',
-    'Q': 'Saqi',
-    'J': 'Ajwa',
-    'A': 'Amber',
-    'H': 'Helwa',
-    'B': 'Barhi',
-    'W': 'Safawi'
-}
-
 # Define the headers for the CSV file
-columns = ['Image Name', 'Date ID', 'Date Type', 'Quality', 'Colour', 'Size', 'Price (in Kg)']
+columns = ['Date ID', 'Date Type', 'Quality', 'Colour', 'Size', 'Price (per kg)']
+
+# CHANGE THESE VALUES AS NEEDED, Then manually check each row for accuracy
+default_date_type = 'Safawi'
+default_quality = 'Medium'
+default_colour = 'Golden'
+default_size = 'Medium'
+default_price_per_kg = '9SR - 15SR'
 
 
-# Function to extract the Date ID by removing the suffix (_1, _2, etc.)
-def extract_date_id(image_name):
-    return image_name.rsplit('_', 1)[0] if '_' in image_name else image_name
+# CHANGE THIS FUNCTION AS NEEDED, This is just a simple example
+def generate_date_id(counter):
+    return f"WD10{counter:02d}"
 
 
-# Function to process and add images to the CSV
-def add_images_to_csv(directory):
-    # Prepare a list to hold the data rows
-    rows = []
+def add_images_to_csv():
+    # Load existing CSV if it exists, else create an empty DataFrame
+    if os.path.exists(csv_file):
+        existing_df = pd.read_csv(csv_file)
+    else:
+        existing_df = pd.DataFrame(columns=columns)
 
-    # Go through all files in the directory
-    for image_name in os.listdir(directory):
-        if image_name.endswith('.jpg'):  # Only process .jpg images
-            # Extract the Date ID and first letter for date type
-            date_id = extract_date_id(image_name)
-            first_letter = image_name[0].upper()
-            date_type = date_type_map.get(first_letter, 'Unknown')
+    # Get the current number of rows (to start the counter properly)
+    start_counter = 1
 
-            # Set default values for quality, colour, size, and price
-            quality = 'High'
-            colour = 'Golden Brown'
-            size = 'Medium'
-            price_per_kg = '15SR - 50SR'
+    # Prepare a list to hold the new rows
+    new_rows = []
 
-            # Append the row to the list
-            rows.append([image_name, date_id, date_type, quality, colour, size, price_per_kg])
+    # Counter from 01 to 40
+    for counter in range(start_counter, start_counter + 40):
+        # Generate the Date ID
+        date_id = generate_date_id(counter)
 
-    # Convert the list to a DataFrame
-    df = pd.DataFrame(rows, columns=columns)
+        # Append the new row with default values
+        new_rows.append(
+            [date_id, default_date_type, default_quality, default_colour, default_size, default_price_per_kg])
+        print(f"Generated Date ID {date_id}.")
 
-    # Check if the CSV file already exists
-    write_header = not os.path.exists(csv_file)  # Only write headers if the file doesn't exist
-    df.to_csv(csv_file, index=False, mode='a', header=write_header)
-    print(f"Added new rows to {csv_file}. Headers written: {write_header}")
+    # Convert the new rows to a DataFrame
+    new_df = pd.DataFrame(new_rows, columns=columns)
 
-# Example usage:
-add_images_to_csv(r"C:\Users\themi\OneDrive\Pictures\Hackathon\Dates")
+    # Append new rows to the existing CSV
+    new_df.to_csv(csv_file, index=False, mode='a', header=not os.path.exists(csv_file))
+    print(f"Added {len(new_rows)} new rows to {csv_file}.")
 
-
+add_images_to_csv()
