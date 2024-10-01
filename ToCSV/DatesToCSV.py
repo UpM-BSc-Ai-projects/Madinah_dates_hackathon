@@ -17,7 +17,7 @@ default_price_per_kg = '10SR - 25SR'
 
 # CHANGE THIS FUNCTION AS NEEDED, This is just a simple example
 def generate_date_id(counter):
-    return f"HD50{counter:02d}"
+    return f"D50{counter:02d}"
 
 
 def add_images_to_csv():
@@ -34,7 +34,7 @@ def add_images_to_csv():
     new_rows = []
 
     # Counter from 01 to 40
-    for counter in range(start_counter, start_counter + 40):
+    for counter in range(start_counter, start_counter + 12):
         # Generate the Date ID
         date_id = generate_date_id(counter)
 
