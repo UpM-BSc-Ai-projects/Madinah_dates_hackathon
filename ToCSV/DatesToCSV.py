@@ -8,7 +8,7 @@ csv_file = 'date.csv'
 columns = ['Date ID', 'Date Type', 'Quality', 'Colour', 'Size', 'Price (per kg)']
 
 # CHANGE THESE VALUES AS NEEDED, Then manually check each row for accuracy
-default_date_type = 'Helwa'
+default_date_type = 'Ajwa'
 default_quality = 'Medium'
 default_colour = 'Red'
 default_size = 'Medium'
