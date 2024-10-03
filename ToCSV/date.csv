@@ -152,13 +152,6 @@ AD1030,Amber,Medium,Dark Brown,Large,45SR
 AD1031,Amber,Medium,Dark Brown,Large,45SR
 AD1032,Amber,Medium,Dark Brown,Large,45SR
 AD1033,Amber,Medium,Dark Brown,Large,45SR
-AD1034,Amber,Medium,Dark Brown,Large,45SR
-AD1035,Amber,Medium,Dark Brown,Large,45SR
-AD1036,Amber,Medium,Dark Brown,Large,45SR
-AD1037,Amber,Medium,Dark Brown,Large,45SR
-AD1038,Amber,Medium,Dark Brown,Large,45SR
-AD1039,Amber,Medium,Dark Brown,Large,45SR
-AD1040,Amber,Medium,Dark Brown,Large,45SR
 QD1001,Saqi,High,Reddish Brown,Large,35SR
 QD1002,Saqi,High,Reddish Brown,Large,35SR
 QD1003,Saqi,High,Reddish Brown,Large,35SR
@@ -199,6 +192,13 @@ QD1037,Saqi,High,Reddish Brown,Large,35SR
 QD1038,Saqi,High,Reddish Brown,Large,35SR
 QD1039,Saqi,High,Reddish Brown,Large,35SR
 QD1040,Saqi,High,Reddish Brown,Large,35SR
+QD1041,Saqi,High,Reddish Brown,Large,35SR
+QD1042,Saqi,High,Reddish Brown,Large,35SR
+QD1043,Saqi,High,Reddish Brown,Large,35SR
+QD1044,Saqi,High,Reddish Brown,Large,35SR
+QD1045,Saqi,High,Reddish Brown,Large,35SR
+QD1046,Saqi,High,Reddish Brown,Large,35SR
+QD1047,Saqi,High,Reddish Brown,Large,35SR
 WD1001,Safawi,Medium,Black,Medium,30SR
 WD1002,Safawi,Medium,Black,Medium,30SR
 WD1003,Safawi,Medium,Black,Medium,30SR
@@ -224,18 +224,3 @@ WD1022,Safawi,Medium,Black,Medium,30SR
 WD1023,Safawi,Medium,Black,Medium,30SR
 WD1024,Safawi,Medium,Black,Medium,30SR
 WD1025,Safawi,Medium,Black,Medium,30SR
-WD1026,Safawi,Medium,Black,Medium,30SR
-WD1027,Safawi,Medium,Black,Medium,30SR
-WD1028,Safawi,Medium,Black,Medium,30SR
-WD1029,Safawi,Medium,Black,Medium,30SR
-WD1030,Safawi,Medium,Black,Medium,30SR
-WD1031,Safawi,Medium,Black,Medium,30SR
-WD1032,Safawi,Medium,Black,Medium,30SR
-WD1033,Safawi,Medium,Black,Medium,30SR
-WD1034,Safawi,Medium,Black,Medium,30SR
-WD1035,Safawi,Medium,Black,Medium,30SR
-WD1036,Safawi,Medium,Black,Medium,30SR
-WD1037,Safawi,Medium,Black,Medium,30SR
-WD1038,Safawi,Medium,Black,Medium,30SR
-WD1039,Safawi,Medium,Black,Medium,30SR
-WD1040,Safawi,Medium,Black,Medium,30SR
